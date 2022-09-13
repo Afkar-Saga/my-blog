@@ -1,0 +1,110 @@
+body {
+	background-color: lightgreen;
+	font-family: sans-serif;
+	margin: 0px;
+}
+h1 {
+	background-color: green;
+	padding: 15px;
+	color: orange;
+	border: red solid 10px;
+	font-style: italic;
+	margin-top: 0px;
+}
+.posts{
+	background-color: yellow;
+	color: darkblue;
+	padding: 12px;
+	border: darkred solid 2px;
+	font-variant: small-caps;
+}
+ul {
+	text-indent: 30px;
+}
+a {
+	transition-duration: 0.5s;
+}
+a:link {
+	text-decoration: none;
+	color: lightgreen;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: red;
+}
+div {
+	background-color: darkorange;
+	color: darkred;
+	padding: 10px;
+	border: cyan solid 4px;
+	line-height: 1.5;
+	font-family: cursive;
+}
+h2 {
+	background-color: lightblue;
+	color: darkblue;
+	padding: 4px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-size: 1.5em;
+	border: purple solid 4px;
+}
+h6 {
+	font-family: monospace;
+	font-style: italic;
+	color: black;
+}
+hr {
+	border: black solid 2px;
+}
+#khanacademy {
+	font-size: 50px;
+	color: green;
+	font-family: sans-serif;
+	background-color: pink;
+	border: green solid 10px;
+}
+#kaleaf {
+	float: left;
+}
+#kahopperhappy {
+	float: right;
+}
+#mudkip {
+	font-size: 50px;
+	color: blue;
+	font-family: fantasy;
+	background-color: cyan;
+	border: red solid 10px;
+	padding: 10px;
+}
+#mudkipimg {
+	float: left;
+	padding: 25px;
+}
+#charmander {
+	font-size: 75px;
+	color: orangered;
+	font-family: fantasy;
+	background-color: salmon;
+	border: blue solid 10px;
+	padding: 10px;
+	text-align: right;
+}
+.charmandersay {
+	background-color: white;
+	color: orange;
+	margin-top: -100px;
+	margin-right: -30px;
+	border: 2px dashed black;
+	font-size: 15px;
+	font-family: sans-serif;
+	float: right;
+	padding: 5px;
+}
+#charmanderimg {
+	float: right;
+	padding: 25px;
+}
